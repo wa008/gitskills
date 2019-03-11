@@ -1,4 +1,4 @@
-?Github笔记：
+Github笔记：
 	添加文件：git add fill.txt
 	提交到仓库：git commit -m "wrote a readme file"
 	要关联一个远程库，使用命令
